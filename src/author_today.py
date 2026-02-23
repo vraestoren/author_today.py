@@ -1,11 +1,11 @@
-import requests
+from requests import Session
 
 class AuthorToday:
     def __init__(self) -> None:
         self.api = "https://api.author.today"
         self.web_api = "https://author.today"
         self.token = "Bearer guest"
-        self.session = requests.Session()
+        self.session = Session()
         self.session.headers = {
             "Authorization": self.token,
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36",
