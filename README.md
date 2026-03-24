@@ -2,6 +2,7 @@
   <img src="https://author.today/distCommon/images/at-logo.png" width="28" style="vertical-align:middle;" />
   author_today.py
 </h1>
+
 > Web-API for [author.today](https://author.today) read, search, and interact with Russia's largest platform for original fiction.
 
 ---
