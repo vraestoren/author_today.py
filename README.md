@@ -25,15 +25,15 @@ author_today.login_with_token("your_token_here")
 
 ## Features
 
-- 🔐 **Auth** — login by password or token, register, recover password
-- 📖 **Works** — get book info, chapters, content, catalog
-- 🏠 **Home** — home page feed, disputed works
-- 👤 **Profile** — view and edit your account, follow/ignore users
-- 📚 **Library** — manage your reading library and bookmarks
-- 💬 **Messaging** — send messages, read chats, mark as read
-- 🔔 **Notifications** — check unread notifications
-- ❤️ **Engagement** — like works, send reports
-- 🔍 **Search** — search works by title or browse the catalog
+-  **Auth** — login by password or token, register, recover password
+-  **Works** — get book info, chapters, content, catalog
+-  **Home** — home page feed, disputed works
+-  **Profile** — view and edit your account, follow/ignore users
+-  **Library** — manage your reading library and bookmarks
+-  **Messaging** — send messages, read chats, mark as read
+-  **Notifications** — check unread notifications
+-  **Engagement** — like works, send reports
+-  **Search** — search works by title or browse the catalog
 
 ---
 
